@@ -23,7 +23,7 @@ testing out cookiecutter
 
 
 * Free software: BSD license
-* Documentation: https://src.readthedocs.io.
+* Documentation: https://test-cookiecutter100.readthedocs.io/en/latest/
 
 
 Features

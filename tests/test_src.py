@@ -5,8 +5,6 @@
 
 import unittest
 
-from src import src
-
 
 class TestSrc(unittest.TestCase):
     """Tests for `src` package."""
