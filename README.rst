@@ -4,18 +4,18 @@ test_cookiecutter
 
 
 .. image:: https://img.shields.io/pypi/v/src.svg
-        :target: https://pypi.python.org/pypi/src
+        :target: https://test.pypi.org/project/test-cookiecutter100/
 
 .. image:: https://img.shields.io/travis/timothy22000/src.svg
-        :target: https://travis-ci.com/timothy22000/src
+        :target: https://app.travis-ci.com/github/timothy22000/test_cookiecutter
 
 .. image:: https://readthedocs.org/projects/src/badge/?version=latest
-        :target: https://src.readthedocs.io/en/latest/?version=latest
+        :target: https://test-cookiecutter100.readthedocs.io/en/latest/
         :alt: Documentation Status
 
 
 .. image:: https://pyup.io/repos/github/timothy22000/src/shield.svg
-     :target: https://pyup.io/repos/github/timothy22000/src/
+     :target: https://pyup.io/account/repos/github/timothy22000/test_cookiecutter/
      :alt: Updates
 
 

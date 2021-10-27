@@ -15,7 +15,7 @@ requirements = [ ]
 test_requirements = [ ]
 
 setup(
-    author="Audrey Roy Greenfeld",
+    author="Timothy Sum",
     author_email='timothy22000@gmail.com',
     python_requires='>=3.6',
     classifiers=[
@@ -38,12 +38,12 @@ setup(
     license="BSD license",
     long_description=readme + '\n\n' + history,
     include_package_data=True,
-    keywords='src',
-    name='src',
-    packages=find_packages(include=['src', 'src.*']),
+    keywords='test-cookiecutter100',
+    name='test-cookiecutter100',
+    packages=find_packages(include=['*', 'src.*']),
     test_suite='tests',
     tests_require=test_requirements,
-    url='https://github.com/timothy22000/src',
-    version='0.1.0',
+    url='https://github.com/timothy22000/test_cookiecutter',
+    version='0.1.1',
     zip_safe=False,
 )

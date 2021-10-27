@@ -5,7 +5,7 @@ Credits
 Development Lead
 ----------------
 
-* Audrey Roy Greenfeld <timothy22000@gmail.com>
+* Timothy Sum <timothy22000@gmail.com>
 
 Contributors
 ------------
