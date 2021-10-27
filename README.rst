@@ -14,10 +14,9 @@ test_cookiecutter
         :alt: Documentation Status
 
 
-.. image:: https://pyup.io/repos/github/timothy22000/src/shield.svg
-     :target: https://pyup.io/repos/github/timothy22000/test_cookiecutter/shield.svg?t=1635323027699
+.. image:: https://pyup.io/repos/github/timothy22000/test_cookiecutter/python-3-shield.svg
+     :target: https://pyup.io/account/repos/github/timothy22000/test_cookiecutter/
      :alt: Updates
-
 
 
 testing out cookiecutter
